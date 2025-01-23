@@ -141,4 +141,5 @@ Provided business insights such as cost reduction, optimal resource allocation, 
 Delivered a notebook demonstrating the entire process from problem setup to solution interpretation, which can be directly applied to real-world business decisions.
 
 #Output Of The Task
-
+#1. https://github.com/gpk1/DATA_SCIENCE_INTERNSHIP_TASK/issues/1
+#2. 
