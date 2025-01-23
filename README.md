@@ -143,3 +143,5 @@ Delivered a notebook demonstrating the entire process from problem setup to solu
 #Output Of The Task
 #1. https://github.com/gpk1/DATA_SCIENCE_INTERNSHIP_TASK/issues/1
 #2. https://github.com/gpk1/DATA_SCIENCE_INTERNSHIP_TASK/issues/4
+#3. https://github.com/gpk1/DATA_SCIENCE_INTERNSHIP_TASK/issues/2
+#4. 
