@@ -140,3 +140,5 @@ Successfully formulated and solved an optimization problem using Linear Programm
 Provided business insights such as cost reduction, optimal resource allocation, and supply chain improvements.
 Delivered a notebook demonstrating the entire process from problem setup to solution interpretation, which can be directly applied to real-world business decisions.
 
+#Output Of The Task
+
